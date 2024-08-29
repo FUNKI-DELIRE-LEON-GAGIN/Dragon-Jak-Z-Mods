@@ -1,3 +1,8 @@
+DOWNLOAD TEXTURE PACK !
+https://drive.google.com/file/d/1gGWFLnZaX1X-vi2H27nPhJ3h53CD4aWZ/view?usp=drive_link
+
+
+
 # OpenGoal-Mod-Base
 Serves as a base template for openGOAL mods that will be supported via [OG-ModLauncher](https://github.com/OpenGOAL-Mods/OG-ModLauncher).
 
